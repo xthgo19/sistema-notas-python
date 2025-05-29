@@ -91,7 +91,7 @@ sistema-notas-python/
 <div align="center">
   <img src="https://github.com/xthgo19.png" width="100px" style="border-radius: 50%"/>
   <br/>
-  <strong>Seu Nome</strong>
+  <strong>Thiago Pereira</strong>
   <br/>
   <a href="https://github.com/xthgo19">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
